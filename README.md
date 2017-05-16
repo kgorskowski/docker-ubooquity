@@ -98,7 +98,7 @@ Then you can access the webui at `http://<your-ip>:2202/ubooquity/`
 
 ## Versions
 
-+ **15.05.17:** Switch to java from 3.5 repo, fixes login crashes.
++ **15.05.17:** Forked and bumped to Ubooquity 2.0.2 beta, 1.0.10 didn't work for me at all
 + **08.04.17:** Switch to java from 3.5 repo, fixes login crashes.
 + **06.02.17:** Rebase to alpine 3.5.
 + **06.12.16:** Initial Release.
